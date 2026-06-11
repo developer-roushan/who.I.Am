@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    { "source": "/_next/image", "destination": "/images/avatar.jpg" },
+    { "source": "/api/about", "destination": "/api/data.json" },
+    { "source": "/api/experience", "destination": "/api/data.json" },
+    { "source": "/api/contact-info", "destination": "/api/data.json" },
+    { "source": "/api/project-config", "destination": "/api/data.json" },
+    { "source": "/api/blog", "destination": "/api/data.json" },
+    { "source": "/api/status", "destination": "/api/data.json" }
+  ],
+  "headers": [
+    {
+      "source": "**/*",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ],
+  "cleanUrls": true
+}

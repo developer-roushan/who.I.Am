@@ -1,0 +1,553 @@
+{
+  "about": {
+    "_createdAt": "2026-04-10T14:37:55Z",
+    "_id": "about.roushan",
+    "_type": "about",
+    "availability": {
+      "openToRelocation": true,
+      "openToRemote": true,
+      "preferredLocations": [
+        "Remote",
+        "Mohali",
+        "India"
+      ],
+      "status": "open"
+    },
+    "avatar": "/images/avatar.jpg",
+    "bio": "Results-driven and highly adaptive Full Stack Software Developer & Cloud Engineer with over 3 years of hands-on experience designing, developing, and scaling high-growth production systems. Specialized in architecting clean .NET Core microservices, migrating legacy enterprise systems to secure, high-performance AWS serverless environments (Lambda, SQS, API Gateway, Cognito, Amplify), and optimizing relational databases. A seasoned algorithmic trading developer with extensive expertise in TradingView Pine Script, building custom indicators (like the HeikenAshi indicator and the Direwolf strategy system), and deploying real-time financial data visualizers (like The Dart dashboard) utilizing WebSockets and modern React frameworks.",
+    "createdAt": "2026-02-14T17:56:30.390Z",
+    "email": "roushankumar555e@gmail.com",
+    "interests": [
+      "Full Stack Development",
+      "Cloud Architecture",
+      "AI/ML Engineering",
+      "Serverless Systems",
+      "System Optimization",
+      "Algorithmic Trading & Indicators"
+    ],
+    "languages": [
+      {
+        "_key": "lang-en",
+        "name": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "_key": "lang-hi",
+        "name": "Hindi",
+        "proficiency": "Native"
+      }
+    ],
+    "location": "Mohali, India",
+    "metadata": {
+      "awardsReceived": 2,
+      "clientsSatisfied": 15,
+      "projectsCompleted": 4,
+      "yearsOfExperience": 3
+    },
+    "name": "Roushan Kumar",
+    "order": 1,
+    "phone": "+91 8579013995",
+    "resume": "https://flowcv.com/resume/uk5wes4sg0h8",
+    "section": "personal",
+    "social": {
+      "github": "https://www.upwork.com/freelancers/~01a6c2057c65498c15",
+      "linkedin": "https://www.linkedin.com/in/roushan-kumar-492112223",
+      "twitter": "https://www.upwork.com/freelancers/~01a6c2057c65498c15"
+    },
+    "tagline": "Architecting Scalable Serverless Cloud, Full Stack Solutions & Algorithmic Trading Systems",
+    "title": "Full Stack Software Developer & Cloud Engineer",
+    "visible": true,
+    "website": "https://www.upwork.com/freelancers/~01a6c2057c65498c15"
+  },
+  "blog": {
+    "data": [
+      {
+        "_id": "blog-aws-migration",
+        "_type": "blogPost",
+        "coverImageAlt": "AWS Serverless Migration",
+        "coverImageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2026-05-15T10:00:00.000Z",
+        "excerpt": "How we migrated Australia's top staffing platform from legacy IIS hosting to a secure, highly-efficient AWS serverless pipeline, slashing booking latencies from minutes to just 15 seconds.",
+        "pinOrder": 1,
+        "pinned": true,
+        "publishedAt": "2026-05-17T10:31:11.000Z",
+        "readTimeMinutes": 5,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Scaling Workforce Platforms: Architecting the Shift to AWS Serverless",
+        "topics": [
+          "Cloud Architecture",
+          "AWS Serverless",
+          "Lambda",
+          "SQS"
+        ]
+      },
+      {
+        "_id": "blog-pinescript",
+        "_type": "blogPost",
+        "coverImageAlt": "TradingView Pine Script",
+        "coverImageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2026-04-10T19:33:00.000Z",
+        "excerpt": "Algorithmic trading demands speed and accuracy. Learn how to write high-performance HeikenAshi indicators and integrate stock screeners utilizing TradingView Pine Script.",
+        "pinOrder": 2,
+        "pinned": true,
+        "publishedAt": "2026-04-12T19:28:00.000Z",
+        "readTimeMinutes": 4,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Mastering Pine Script: Engineering Custom Indicators on TradingView",
+        "topics": [
+          "Pine Script",
+          "TradingView",
+          "Technical Analysis",
+          "Algorithmic Trading"
+        ]
+      },
+      {
+        "_id": "blog-lightweight-charts",
+        "_type": "blogPost",
+        "coverImageAlt": "TradingView Lightweight Charts",
+        "coverImageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2026-03-20T11:00:00.000Z",
+        "excerpt": "A technical guide to embedding interactive, high-performance financial charts inside React applications using the lightweight charts library.",
+        "pinOrder": 3,
+        "pinned": true,
+        "publishedAt": "2026-03-22T11:00:00.000Z",
+        "readTimeMinutes": 6,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Building Custom Interactive Charts with TradingView Lightweight Library",
+        "topics": [
+          "JavaScript",
+          "React",
+          "TradingView API",
+          "Data Visualization"
+        ]
+      },
+      {
+        "_id": "blog-direwolf-strategy",
+        "_type": "blogPost",
+        "coverImageAlt": "Direwolf Trading Strategy",
+        "coverImageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2026-02-25T10:00:00.000Z",
+        "excerpt": "Deep dive into the architecture of the Direwolf strategy. Learn how ATR-based trailing stops, momentum filters, and automated webhook execution are built for end-to-end trading automation.",
+        "pinOrder": 4,
+        "pinned": true,
+        "publishedAt": "2026-02-28T10:00:00.000Z",
+        "readTimeMinutes": 5,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Direwolf Algorithmic Strategy: Designing Trend-Following Systems in Pine Script",
+        "topics": [
+          "Pine Script",
+          "TradingView",
+          "Algorithmic Trading",
+          "Automation"
+        ]
+      },
+      {
+        "_id": "blog-thedart-screener",
+        "_type": "blogPost",
+        "coverImageAlt": "The Dart Market Screener",
+        "coverImageUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2026-01-12T10:00:00.000Z",
+        "excerpt": "How we engineered 'The Dart', a sub-second financial screener. Resolving WebSocket concurrency in React and rendering streaming charts efficiently.",
+        "pinOrder": 5,
+        "pinned": true,
+        "publishedAt": "2026-01-15T10:00:00.000Z",
+        "readTimeMinutes": 5,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Building The Dart: Real-Time Multi-Asset Screeners with WebSockets",
+        "topics": [
+          "React",
+          "WebSockets",
+          "TypeScript",
+          "Performance"
+        ]
+      },
+      {
+        "_id": "blog-netcore-architecture",
+        "_type": "blogPost",
+        "coverImageAlt": ".NET Core Clean Architecture",
+        "coverImageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2025-12-08T10:00:00.000Z",
+        "excerpt": "An in-depth look at structuring .NET Core solutions. Implementing CQRS, dependency injection, and clean separation of concerns for scalable enterprise backends.",
+        "pinOrder": 6,
+        "pinned": true,
+        "publishedAt": "2025-12-10T10:00:00.000Z",
+        "readTimeMinutes": 6,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Clean Architecture in .NET Core: Building Maintainable APIs",
+        "topics": [
+          ".NET Core",
+          "Clean Architecture",
+          "API Development",
+          "C#"
+        ]
+      },
+      {
+        "_id": "blog-lambda-coldstart",
+        "_type": "blogPost",
+        "coverImageAlt": "AWS Lambda Cold Starts",
+        "coverImageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2025-11-02T10:00:00.000Z",
+        "excerpt": "Cold starts can degrade serverless API performance. Tips and patterns for optimizing AWS Lambda function size, provisioning concurrency, and memory allocation.",
+        "pinOrder": 7,
+        "pinned": true,
+        "publishedAt": "2025-11-05T10:00:00.000Z",
+        "readTimeMinutes": 5,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "AWS Lambda Optimization: Best Practices for Serverless Cold Starts",
+        "topics": [
+          "AWS Lambda",
+          "Serverless",
+          "Performance",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "_id": "blog-db-performance",
+        "_type": "blogPost",
+        "coverImageAlt": "SQL Server Query Tuning",
+        "coverImageUrl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2025-10-10T10:00:00.000Z",
+        "excerpt": "Relational database query optimization is crucial for latency reduction. Learn how to diagnose slow queries and design optimal database indexes in SQL Server.",
+        "pinOrder": 8,
+        "pinned": true,
+        "publishedAt": "2025-10-12T10:00:00.000Z",
+        "readTimeMinutes": 5,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "Database Performance: Indexes and Query Tuning in SQL Server",
+        "topics": [
+          "SQL Server",
+          "Database Tuning",
+          "Query Optimization",
+          "Relational DB"
+        ]
+      },
+      {
+        "_id": "blog-freelance-to-lead",
+        "_type": "blogPost",
+        "coverImageAlt": "Engineering Leadership & Mentorship",
+        "coverImageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop&q=60",
+        "createdAt": "2025-09-05T10:00:00.000Z",
+        "excerpt": "Sharing lessons on scaling engineering quality. Establishing code standards, code review loops, and mentoring junior engineers to build robust architectures.",
+        "pinOrder": 9,
+        "pinned": true,
+        "publishedAt": "2025-09-08T10:00:00.000Z",
+        "readTimeMinutes": 5,
+        "showOnWebsite": true,
+        "slug": "https://www.linkedin.com/in/roushan-kumar-492112223/recent-activity/all/",
+        "source": "LinkedIn Post",
+        "title": "From Freelancer to Tech Lead: Mentorship and Scaling Engineering Standards",
+        "topics": [
+          "Mentorship",
+          "Team Leadership",
+          "Software Engineering",
+          "Clean Code"
+        ]
+      }
+    ],
+    "linkedinFeedUrl": "https://data.accentapi.com/feed/25688515.json"
+  },
+  "contactInfo": {
+    "_createdAt": "2026-04-10T14:38:01Z",
+    "_id": "contactInfo.roushan",
+    "_type": "contactInfo",
+    "availability": {
+      "consulting": true,
+      "forHire": true,
+      "freelance": true,
+      "mentoring": true,
+      "speaking": false
+    },
+    "email": "roushankumar555e@gmail.com",
+    "phone": "+91 8579013995",
+    "whatsapp": "+91 8579013995",
+    "whatsappLink": "https://wa.me/918579013995",
+    "resumeUrl": "https://flowcv.com/resume/uk5wes4sg0h8",
+    "preferredContact": "email",
+    "responseTime": "24 hours",
+    "socialLinks": [
+      {
+        "_key": "soc-upwork",
+        "order": 1,
+        "platform": "upwork",
+        "url": "https://www.upwork.com/freelancers/~01a6c2057c65498c15",
+        "username": "roushan-k",
+        "visible": true
+      },
+      {
+        "_key": "soc-linkedin",
+        "order": 2,
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/roushan-kumar-492112223",
+        "username": "roushan-kumar-492112223",
+        "visible": true
+      },
+      {
+        "_key": "soc-whatsapp",
+        "order": 3,
+        "platform": "whatsapp",
+        "url": "https://wa.me/918579013995",
+        "username": "8579013995",
+        "visible": true
+      }
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "experience": {
+    "data": [
+      {
+        "_createdAt": "2026-04-10T14:37:58Z",
+        "_id": "experience.revocept-dev",
+        "_type": "experience",
+        "company": "Revocept Solutions",
+        "current": true,
+        "description": "Legacy System Migration: Spearheaded the architectural migration of legacy, IIS-based platforms to AWS serverless environments (Lambda, API Gateway, SQS, Cognito, Amplify), driving a 50%+ reduction in API latency and vastly improving cloud-native maintainability. Relational database schema design and third-party integration of complex platforms.",
+        "featured": true,
+        "from": "2023-07",
+        "highlights": [
+          "Slashed backend booking latency from 5-7s to 2-3s",
+          "Boosted booking success rate to 95%-99%",
+          "Cut booking acceptance latency from 10m to 15s"
+        ],
+        "location": "Mohali, India",
+        "locationType": "On-site",
+        "order": 1,
+        "role": "Full Stack Developer & Cloud Engineer",
+        "technologies": [
+          "C#",
+          ".NET Core",
+          "ASP.NET Core",
+          "AWS",
+          "Lambda",
+          "Cognito",
+          "Amplify",
+          "SQS",
+          "SQL Server",
+          "MySQL",
+          "React"
+        ],
+        "to": "Present",
+        "type": "work",
+        "companyUrl": "https://revoceptsolutions.com"
+      },
+      {
+        "_createdAt": "2026-04-10T14:37:58Z",
+        "_id": "experience.revocept-mentor",
+        "_type": "experience",
+        "company": "Revocept Solutions",
+        "current": true,
+        "description": "Mentor & Technical Lead: Structured and executed formal training framework for junior trainees covering .NET backend methodologies, API patterns, and modern frontend frameworks. Maintained rigorous code quality by establishing strict standards for debugging, testing, and clean code documentation.",
+        "featured": true,
+        "from": "2025-07",
+        "highlights": [
+          "Mentored junior trainees covering .NET backend patterns",
+          "Accelerated internal engineering onboarding efficiency",
+          "Established debugging and testing code standards"
+        ],
+        "location": "Mohali, India",
+        "locationType": "On-site",
+        "order": 2,
+        "role": "Mentor & Technical Lead",
+        "technologies": [
+          ".NET Core",
+          "API Gateway",
+          "Amplify",
+          "Cognito",
+          "Firebase",
+          "Bitbucket",
+          "GitHub"
+        ],
+        "to": "Present",
+        "type": "work",
+        "companyUrl": "https://revoceptsolutions.com"
+      },
+      {
+        "_createdAt": "2026-04-10T14:37:58Z",
+        "_id": "experience.upwork-freelance",
+        "_type": "experience",
+        "company": "Freelance on Upwork",
+        "current": false,
+        "description": "Skilled Full Stack .NET Developer & Pine Script/TradingView Developer. Built robust algorithmic trading setups and custom indicators. Reviews: 'Delivered good work and on time, easy to work with' (5.0/5.0) & 'Very good quality of work. Would love to work more with Roushan. Very Professional to deal with' (Biju E., 5.0/5.0).",
+        "featured": true,
+        "from": "2025-07",
+        "highlights": [
+          "Pine Script technical analysis & stock screener integrations",
+          "TradingView Lightweight charts custom web-app deployment",
+          "Maintained perfect 5.0/5.0 rating on all contracts"
+        ],
+        "location": "Remote",
+        "locationType": "Remote",
+        "order": 3,
+        "role": "Algorithmic Trading & .NET Developer",
+        "technologies": [
+          "Pine Script",
+          "TradingView",
+          "JavaScript",
+          "React",
+          "C#",
+          ".NET Core",
+          "Firebase"
+        ],
+        "to": "2026-04",
+        "type": "work"
+      }
+    ],
+    "meta": {
+      "total": 3
+    }
+  },
+  "projectConfig": [
+    {
+      "_createdAt": "2026-04-10T18:01:37Z",
+      "_id": "projectConfig.rawtalent",
+      "_type": "projectConfig",
+      "description": "Australia's top casual staffing & workforce platform. Redesigned legacy components to an agile AWS serverless pipeline, utilizing SQS and Lambda to eliminate blocking synchronous requests and decouple workflows. Slashed booking latency from 5-7s down to 2-3s and compressed acceptance latencies from 10 minutes to just 15 seconds.",
+      "hideGithub": true,
+      "homepage": "https://rawtalent.com.au/",
+      "manualPinned": true,
+      "pinOrder": 1,
+      "pinned": true,
+      "repoName": "RawTalent",
+      "showOnWebsite": true,
+      "source": "hardcoded-page-config",
+      "tech": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "AWS Lambda",
+        "SQS",
+        "API Gateway",
+        "Cognito",
+        "SQL Server"
+      ],
+      "title": "RawTalent - Staffing & Workforce Management Platform"
+    },
+    {
+      "_createdAt": "2026-04-10T18:01:37Z",
+      "_id": "projectConfig.heikenashi",
+      "_type": "projectConfig",
+      "description": "TradingView Custom HeikenAshi Indicator & Strategy. Programmed Pine Script algorithm to calculate and overlay custom indicators on TradingView charts, optimized for high performance and strategy alerts. Client feedback: 'Delivered good work and on time easy to work with' (5.0/5.0 stars).",
+      "hideGithub": true,
+      "homepage": "",
+      "manualPinned": true,
+      "pinOrder": 2,
+      "pinned": true,
+      "repoName": "HeikenAshiIndicator",
+      "showOnWebsite": true,
+      "source": "hardcoded-page-config",
+      "tech": [
+        "Pine Script",
+        "TradingView",
+        "Technical Analysis"
+      ],
+      "title": "TradingView Custom HeikenAshi Indicator & Strategy"
+    },
+    {
+      "_createdAt": "2026-04-10T18:01:37Z",
+      "_id": "projectConfig.tradingview-webapp",
+      "_type": "projectConfig",
+      "description": "TradingView API Integration & Chart Web-App. Designed and deployed a straight-forward financial technical chart web application using TradingView Lightweight Charts API, enabling real-time data streaming and customizable interactive overlays.",
+      "hideGithub": true,
+      "homepage": "",
+      "manualPinned": true,
+      "pinOrder": 3,
+      "pinned": true,
+      "repoName": "TradingViewChartApp",
+      "showOnWebsite": true,
+      "source": "hardcoded-page-config",
+      "tech": [
+        "JavaScript",
+        "React",
+        "TradingView",
+        "Data Visualization"
+      ],
+      "title": "TradingView API Integration & Custom Chart Web-App"
+    },
+    {
+      "_createdAt": "2026-04-10T18:01:37Z",
+      "_id": "projectConfig.screener-integration",
+      "_type": "projectConfig",
+      "description": "TradingView Pine Script + Chartink/Finviz Screener. Developed custom strategy indicators and integrated them with external screener platforms for multi-factor stock filtering. Client feedback: 'Very good quality of work. Would love to work more with Roushan. Very Professional to deal with' (Biju E., 5.0/5.0 stars).",
+      "hideGithub": true,
+      "homepage": "",
+      "manualPinned": true,
+      "pinOrder": 4,
+      "pinned": true,
+      "repoName": "StockStrategyScreener",
+      "showOnWebsite": true,
+      "source": "hardcoded-page-config",
+      "tech": [
+        "Pine Script",
+        "TradingView",
+        "Technical Analysis",
+        "Finviz",
+        "Chartink"
+      ],
+      "title": "TradingView Pine Script & Screener Integration"
+    },
+    {
+      "_createdAt": "2026-06-04T18:00:00Z",
+      "_id": "projectConfig.direwolf",
+      "_type": "projectConfig",
+      "description": "Direwolf Algorithmic Pine Script Strategy. Programmed an advanced trend-following and momentum trading strategy in Pine Script. Incorporates multi-timeframe analysis, dynamic ATR-based trailing stops, and automated webhook execution for real-time order routing.",
+      "hideGithub": true,
+      "homepage": "",
+      "manualPinned": true,
+      "pinOrder": 5,
+      "pinned": true,
+      "repoName": "DirewolfStrategy",
+      "showOnWebsite": true,
+      "source": "hardcoded-page-config",
+      "tech": [
+        "Pine Script",
+        "TradingView",
+        "Algorithmic Trading",
+        "Automation"
+      ],
+      "title": "Direwolf Algorithmic Pine Script Strategy"
+    },
+    {
+      "_createdAt": "2026-06-04T18:00:00Z",
+      "_id": "projectConfig.thedart",
+      "_type": "projectConfig",
+      "description": "The Dart - An online e-commerce marketplace for automobile detailing chemicals, garage equipment, cloth pads, polisher parts, and specialized tools. Features search auto-suggestions, customer wishlists, user authentication, and flash sales.",
+      "hideGithub": true,
+      "homepage": "https://thedart.in/",
+      "manualPinned": true,
+      "pinOrder": 6,
+      "pinned": true,
+      "repoName": "TheDartScreener",
+      "showOnWebsite": true,
+      "source": "hardcoded-page-config",
+      "tech": [
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "jQuery",
+        "Bootstrap"
+      ],
+      "title": "The Dart - Automobile Products Marketplace"
+    }
+  ],
+  "status": {
+    "status": "available",
+    "label": "Open to Work",
+    "message": "Roushan is actively looking for new projects",
+    "color": "green"
+  }
+}
